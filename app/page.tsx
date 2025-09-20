@@ -15,7 +15,7 @@ export default function FinanceTracker() {
           <div className="flex items-center justify-center gap-2 mb-3 sm:mb-4">
             <Heart className="h-6 w-6 sm:h-8 sm:w-8 text-primary fill-primary" />
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground text-balance">
-              Our Finance Tracker
+              My Finance Tracker
             </h1>
             <Heart className="h-6 w-6 sm:h-8 sm:w-8 text-primary fill-primary" />
           </div>
