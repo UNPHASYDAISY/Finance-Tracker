@@ -24,7 +24,7 @@ const categories = [
   "Travel",
   "Education",
   "Personal Care",
-  "Princess' Corner",
+  "Ashu's Corner",
   "Gifts",
   "Other",
 ]
